@@ -1,0 +1,4 @@
+- insert:
+    - id: myglobalrules
+      name: '@local/myglobalrules'
+      config: {}

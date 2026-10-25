@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "My Global Rules",
+    "description": "Injects the user's global AGENTS.md rules into every agent's system prompt."
+  }
+}
